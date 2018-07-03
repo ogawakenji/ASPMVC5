@@ -45,9 +45,9 @@
 
 ## 2-2 コントローラーの基本
 
-    基点となるのはコントローラー
+基点となるのはコントローラー
     
-    Model-View-ControllerのControllerに当たる部分
+Model-View-ControllerのControllerに当たる部分
     
     
 
